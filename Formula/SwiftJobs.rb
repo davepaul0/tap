@@ -1,6 +1,6 @@
 class Swiftjobs < Formula
   desc "A command line tool"
-  url "https://github.com/davepaul0/SwiftJobs/archive/refs/heads/main.zip"
+  url "https://github.com/davepaul0/SwiftJobs/archive/refs/tags/0.1.0.zip"
   version "0.1.0"
 
   def install
