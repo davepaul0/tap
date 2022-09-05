@@ -1,7 +1,7 @@
 class Swiftjobs < Formula
   desc "A command line tool"
-  url "https://github.com/davepaul0/SwiftJobs/archive/refs/tags/0.1.0.zip"
-  version "0.1.0"
+  url "https://github.com/davepaul0/SwiftJobs/archive/refs/tags/0.1.1.zip"
+  version "0.1.1"
 
   def install
     libexec.install Dir["bin/starter"]
